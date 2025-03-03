@@ -36,7 +36,7 @@ const Splash = () => {
                             <span className="text-2xl"><img src="/students.svg" alt="graduation"/></span>
 
                             <div>
-                                <p className="mt-2 text-2xl">Students</p>
+                                <p className="mt-2 text-2xl">applicants</p>
                                 <button onClick={() => navigate("/login")}
                                         className="mt-[30px] bg-purple-700 text-white px-4 py-2 rounded">Log in
                                 </button>
